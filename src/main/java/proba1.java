@@ -3,5 +3,6 @@ public class proba1 {
         System.out.println("Hello, World сначала!");
         System.out.println("Hello, World!");
         System.out.println("Hello, World еще раз!");
+        System.out.println("Hello, World и второй раз!");
     }
 }
